@@ -1,0 +1,13 @@
+D:\smartbear\Minesweeper\Minesweeper\bin\Debug\Minesweeper.exe.config
+D:\smartbear\Minesweeper\Minesweeper\bin\Debug\Minesweeper.exe
+D:\smartbear\Minesweeper\Minesweeper\bin\Debug\Minesweeper.pdb
+D:\smartbear\Minesweeper\Minesweeper\obj\Debug\Minesweeper.Properties.Resources.resources
+D:\smartbear\Minesweeper\Minesweeper\obj\Debug\Minesweeper.csproj.GenerateResource.Cache
+D:\smartbear\Minesweeper\Minesweeper\obj\Debug\Minesweeper.csproj.CoreCompileInputs.cache
+D:\smartbear\Minesweeper\Minesweeper\obj\Debug\Minesweeper.exe
+D:\smartbear\Minesweeper\Minesweeper\obj\Debug\Minesweeper.pdb
+D:\smartbear\Minesweeper\Minesweeper\bin\Debug\MinerFieldControlLibrary.dll
+D:\smartbear\Minesweeper\Minesweeper\bin\Debug\MinerFieldControlLibrary.pdb
+D:\smartbear\Minesweeper\Minesweeper\obj\Debug\Minesweeper.csprojResolveAssemblyReference.cache
+D:\smartbear\Minesweeper\Minesweeper\obj\Debug\Minesweeper.MainForm.resources
+D:\smartbear\Minesweeper\Minesweeper\obj\Debug\Minesweeper.SettingsForm.resources

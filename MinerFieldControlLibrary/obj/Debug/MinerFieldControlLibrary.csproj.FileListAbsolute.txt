@@ -1,0 +1,6 @@
+D:\smartbear\Minesweeper\MinerFieldControlLibrary\obj\Debug\MinerFieldControlLibrary.csproj.CoreCompileInputs.cache
+D:\smartbear\Minesweeper\MinerFieldControlLibrary\bin\Debug\MinerFieldControlLibrary.dll
+D:\smartbear\Minesweeper\MinerFieldControlLibrary\bin\Debug\MinerFieldControlLibrary.pdb
+D:\smartbear\Minesweeper\MinerFieldControlLibrary\obj\Debug\MinerFieldControlLibrary.dll
+D:\smartbear\Minesweeper\MinerFieldControlLibrary\obj\Debug\MinerFieldControlLibrary.pdb
+D:\smartbear\Minesweeper\MinerFieldControlLibrary\obj\Debug\MinerFieldControlLibrary.csprojResolveAssemblyReference.cache
